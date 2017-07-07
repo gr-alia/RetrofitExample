@@ -1,4 +1,4 @@
-package com.alia.retrofitexample;
+package com.alia.retrofitexample.model;
 
 
 import com.google.gson.annotations.Expose;
